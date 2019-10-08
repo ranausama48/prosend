@@ -1,0 +1,151 @@
+.hr{
+    padding: 0;
+    border-style: groove;
+    border-width: 1px 0 0 0;
+    text-align: center;
+    clear: left;
+    display: block;
+    height: 0;
+    margin: 20px auto 0px auto;
+    width: 20%;
+    color: #f29c12;
+}
+.g1{
+	position: relative;
+    
+}
+.g1:hover .g1_more{
+    transition: all 2s; 
+    transform: scale(0);
+	/* transform: scale(1); */
+}
+.g1_more{
+    position: absolute;
+	top: 0px;
+	background:rgba(5, 5, 3, 0.59);
+	padding: 60px 50px 60px 50px;
+	 
+    height: 200px;
+    width: 350px;
+    display: block;
+    transition: all 2s; 
+    transform: scale(1);
+
+}
+.g2{
+	position: relative;
+    
+}
+.g2:hover .g2_more{
+    transition: all 2s; 
+    transform: scale(0);
+	/* transform: scale(1); */
+}
+.g2_more{
+    position: absolute;
+	top: 0px;
+	background:rgba(5, 5, 3, 0.59);
+	padding: 60px 50px 60px 50px;
+	 
+    height: 200px;
+    width: 350px;
+    display: block;
+    transition: all 2s; 
+    transform: scale(1);
+
+}
+.g3{
+	position: relative;
+    
+}
+.g3:hover .g3_more{
+    transition: all 2s; 
+    transform: scale(0);
+	/* transform: scale(1); */
+}
+.g3_more{
+    position: absolute;
+	top: 0px;
+	background:rgba(5, 5, 3, 0.59);
+	padding: 60px 50px 60px 50px;
+	 
+    height: 200px;
+    width: 350px;
+    display: block;
+    transition: all 2s; 
+    transform: scale(1);
+
+}
+.g4{
+	position: relative;
+    
+}
+.g4:hover .g4_more{
+    transition: all 2s; 
+    transform: scale(0);
+	/* transform: scale(1); */
+}
+.g4_more{
+    position: absolute;
+	top: 0px;
+	background:rgba(5, 5, 3, 0.59);
+	padding: 60px 50px 60px 50px;
+	 
+    height: 200px;
+    width: 350px;
+    display: block;
+    transition: all 2s; 
+    transform: scale(1);
+
+}
+.g5{
+	position: relative;
+    
+}
+.g5:hover .g5_more{
+    transition: all 2s; 
+    transform: scale(0);
+	/* transform: scale(1); */
+}
+.g5_more{
+    position: absolute;
+	top: 0px;
+	background:rgba(5, 5, 3, 0.59);
+	padding: 60px 50px 60px 50px;
+	 
+    height: 200px;
+    width: 350px;
+    display: block;
+    transition: all 2s; 
+    transform: scale(1);
+
+}
+.g6{
+	position: relative;
+    
+}
+.g6:hover .g6_more{
+    transition: all 2s; 
+    transform: scale(0);
+	/* transform: scale(1); */
+}
+.g6_more{
+    position: absolute;
+	top: 0px;
+	background:rgba(5, 5, 3, 0.59);
+	padding: 60px 50px 60px 50px;
+	 
+    height: 200px;
+    width: 350px;
+    display: block;
+    transition: all 2s; 
+    transform: scale(1);
+
+}
+.icons_custome{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+

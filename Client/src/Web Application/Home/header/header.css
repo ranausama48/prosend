@@ -1,0 +1,10 @@
+.navbar_custom{
+    background-color: #800505 !important;
+    color: white !important;
+}
+.navbar_items{
+    color: white !important;
+    font-weight: 500;
+    font-style: inherit;
+    font-family: cursive;
+}

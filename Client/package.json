@@ -1,0 +1,52 @@
+{
+  "name": "assignment1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "@trendmicro/react-sidenav": "^0.4.5",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0",
+    "google-map-react": "^1.1.4",
+    "google-maps-react": "^2.0.2",
+    "mdbreact": "^4.14.0",
+    "react": "^16.8.6",
+    "react-animated-css": "^1.0.5",
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-dom": "^16.8.6",
+    "react-fontawesome": "^1.6.1",
+    "react-google-maps": "^9.4.5",
+    "react-grid-gallery": "^0.5.4",
+    "react-grid-system": "^4.4.5",
+    "react-icons": "^3.7.0",
+    "react-redux": "^7.1.0",
+    "react-responsive-carousel": "^3.1.49",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.5",
+    "react-slick": "^0.24.0",
+    "react-slideshow-image": "^1.1.7",
+    "reactstrap": "^8.0.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^0.87.1",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

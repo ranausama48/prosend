@@ -1,0 +1,13 @@
+#back_img{
+    background-image: url(Images/1.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.btn-warning{
+    border-radius: 0px !important;
+    color: white !important;
+    margin: 5px;
+    padding: 10px !important;
+
+}

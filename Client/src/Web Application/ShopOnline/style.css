@@ -1,0 +1,15 @@
+#services_bg{
+    background-image: url(Images/6.jpg);
+    background-repeat:no-repeat;
+background-size:cover;
+background-position:center;
+    /* background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;*/
+    margin-top: 73px;
+    height: 350px;
+    width: 100%; 
+}
+#home_link:hover{
+    color: #F9BE4F !important;
+}

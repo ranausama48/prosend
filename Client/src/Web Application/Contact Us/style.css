@@ -1,0 +1,34 @@
+.contat_item{
+    margin: 20px 0px!important; 
+border: 5px solid #F9BE4F!important;
+    border-radius: 355px 45px 225px 75px/15px 225px 15px 255px;
+    /* border-radius:'355px 45px 225px 75px/15px 225px 15px 255px' !important; */
+    padding:40px 0px !important;
+    background-color: #800505;
+    color:  white !important;
+    opacity: 1;
+    transition: 2s;
+}
+.contat_item:hover{
+background-color: white;
+border: 5px solid #F9BE4F!important;
+color: #800505 !important;  
+}
+.contat_item:hover a{
+   
+    color: #800505 !important;
+    }
+    .contat_item a{
+        color: white !important;
+    }
+.icons_custome{
+    font-size: 100px;
+    display: flex;
+    /* display: none; */
+    justify-content: center;
+    color: white;
+}
+.footer_icons{
+    font-size: 30px;
+    margin-right: 15px;
+}
